@@ -35,9 +35,6 @@ Not only was I very happy to see that Nintendo found it's way to the top, but th
 
 So, I'm happy to report that Nintendo really is the best! I'm also happy to have learned more about the relationships of Microsoft's and Sony's games with their consumers!
 
----
-
 sources:
-
 -Kaggle Vigeo Game Sales Dataset: https://www.kaggle.com/gregorut/videogamesales
 -My personal Google Colab where I did all the coding: https://colab.research.google.com/drive/168nGjkprCzRBCP9ipzRpPFcZyfFS93yh?usp=sharing
