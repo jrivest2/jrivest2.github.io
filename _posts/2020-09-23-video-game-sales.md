@@ -33,7 +33,9 @@ I came to the realization that one way to measure quality is by the number of pe
 Not only was I very happy to see that Nintendo found it's way to the top, but that Nintendo was first by a LONG SHOT!! Microsoft came in second on this graph but barely has more than half the average that Nintendo has. In other words, on average, any given game made by Nintendo sells 2.58 MILLION copies! Another very interesting fact is that between this graph and the last, Microsoft and Sony basically switch places. Suggesting that, while PlayStation gets way more games, Xbox sells way more of their exclusive games. Now, one reason this may be is because, for most everyone that isn't super into these two consoles, you think of Xbox, you think of Halo. PlayStation, on the other hand, has many classic exclusives, but it seems that not everyone got way on board with every game.
 
 So, I'm happy to report that Nintendo really is the best! I'm also happy to have learned more about the relationships of Microsoft's and Sony's games with their consumers!
+
 ---
+
 $
 _sources:
 -Kaggle Vigeo Game Sales Dataset: https://www.kaggle.com/gregorut/videogamesales
