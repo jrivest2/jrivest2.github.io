@@ -36,8 +36,6 @@ So, I'm happy to report that Nintendo really is the best! I'm also happy to have
 
 ---
 
-$
-_sources:
+$_sources:
 -Kaggle Vigeo Game Sales Dataset: https://www.kaggle.com/gregorut/videogamesales
--My personal Google Colab where I did all the coding: https://colab.research.google.com/drive/168nGjkprCzRBCP9ipzRpPFcZyfFS93yh?usp=sharing
-$
+-My personal Google Colab where I did all the coding: https://colab.research.google.com/drive/168nGjkprCzRBCP9ipzRpPFcZyfFS93yh?usp=sharing$
