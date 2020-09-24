@@ -18,7 +18,7 @@ The word *best* can be very ambiguous. So, I decided that I would use this data 
 - The number of unique games each company has made.
 - How many copies the average game from each company  sells.
 
-I should also clarify that the games here are only included in the data if they both a) sold a minimum of 100,000 copies, and b) were made before early 2017 (I'm not sure quite how early, but games made for the switch were not included at all in the data).
+I should also clarify that the games here are only included in the data if they both a) sold a minimum of 100,000 copies, and b) were made before 2017 (I'm not sure quite how early).
 
 ### Graph #1: Unique Games
 For this graph, I graphed the number of game entries per publisher against their respective publishers.
