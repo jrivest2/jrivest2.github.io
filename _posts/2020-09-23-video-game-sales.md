@@ -4,7 +4,7 @@ title: Video Game Sales
 subtitle: Ranked by Publisher
 cover-img: 
 thumbnail-img: /assets/img/vg-sales-avg.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/vg-sales-avg.png
 tags: [python, datascience, buildweek]
 ---
 ## My Question
