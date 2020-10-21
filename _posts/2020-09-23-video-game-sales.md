@@ -5,7 +5,7 @@ subtitle: Ranked by Publisher
 cover-img: 
 thumbnail-img: /assets/img/vg-sales-avg.png
 share-img: /assets/img/vg-sales-avg.png
-tags: [python, datascience, buildweek]
+tags: [python, datascience, buildweek, video games]
 ---
 ## My Question
 I want to know which publisher is best. (Basic Answer: Nintendo. But keep reading if you want to see how I came to that!)
