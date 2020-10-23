@@ -19,6 +19,8 @@ the platform it was released on, and how well it sold
 in different parts of the world. A good (and probably obvious) question this would answer is:
 Do these things influence or somehow correlate with the genre of a game?
 
+![Example image of my dataset](/assets/img/vg-sales-dataframe.png)
+
 # How I Went About It
 I made a 2 models: a linear model and an XGBoost model. There are 12 different genres, so high accuracy is not easy to acheive. Action is the most frequently occuring genre, but even if you just guess Action every time, you'd only be right 19.89% of the time.
 
