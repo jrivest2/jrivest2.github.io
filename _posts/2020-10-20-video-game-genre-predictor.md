@@ -29,3 +29,8 @@ I know that it doesn't seem like a lot if my model can only guess right 35% of t
 
 ![Permutation Importance Chart showing weights of each feature.](/assets/img/permuation_importance_chart.png)
 
+This chart is showing us that the most important feature (or the feature that has the most impact on the final prediction) is what Publisher makes the game. The second most important feature is Japanese sales (number of copies sold), third is the year the game release, and so on.
+
+sources:
+* [Kaggle Vigeo Game Sales Dataset](https://www.kaggle.com/gregorut/videogamesales)
+* [My Github Workbook](https://github.com/jrivest2/buildweek2/blob/main/workbook.ipynb)
