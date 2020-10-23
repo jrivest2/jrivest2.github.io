@@ -13,7 +13,7 @@ My name is Justin Rivest. I have the following qualities:
 - I'm currently studying to become a Data Scientist and Computer Scientist at [Lambda School](https://lambdaschool.com/hire-from-lambda).
 - I've worked for over a year tutoring kids in how to use all of the aforementioned languages (except C++).
 - Before studying at Lambda, I studied as a Computer Science major with a minor in Digital Humanities for 2 years at [BYU](https://www.byu.edu/).
--
+
 
 ### My story
 
