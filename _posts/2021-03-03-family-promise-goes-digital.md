@@ -60,11 +60,13 @@ Here's some code snippets from the code used to create the new database:
 We were able to attain a Minimum Viable Product(MVP) for the Executive Director Dashboard.
 We made a working page and we were also able to make a working predictive model that predicts the exit type of potential guest families. We were able to successfully implement DocuSign as well. 
 
-![Screenshot of working Executive Director Dashboard](...)
+![Screenshot 1/2 of working Executive Director Dashboard](/assets/img/family_promise_working_executive_dashboard_1.com-gif-maker.gif)
 
 ***
 
-![Screenshot of working docusign](...)
+![Screenshot 2/2 of working Executive Director Dashboard](/assets/img/family_promise_working_executive_dashboard_2.com-gif-maker.gif)
+
+***
 
 In the future, the Executive Director dashboard will continue to improve, but many more staff roles will be added as well. 
 The Executive Director Dashboard will contain more information, more data visuals, and an all around better aesthetic. The other staff roles will have similar dashboards relevant to their positions and responsibilities as well. We've all worked really  hard this month and we've come a long way together. At the start of this I was having a hard time getting engaged because I didn't feel like I knew what was going on. I was waiting to understand something before asking any questions. I eventually reached out and received the feedback that I needed to have better communication with the team! I finally started talking with the rest of my team and found that I wasn't the only one who was confused! We were all able to come together because of that and I was able to become much more involved in the project after that! I think this project has helped further my career, not in a technical way, but rather, in a more social way. I have learned more about team communication and the courage I need to succeed as part of an effective team.
