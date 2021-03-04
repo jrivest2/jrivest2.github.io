@@ -20,7 +20,11 @@ the potential family would exit the system if permitted to stay. This process is
 We are trying to help them usher in digital methods to replace the paper ones and enhance the overall experience of
 all parties involved.
 
+***
+
 ![Screenshot of the Family Promise Home Page](/assets/img/family_promise_site.png)
+
+***
 
 ### Behind the Scenes 
 Personally, I was able to use the data to make several graphs for the executive dashboard.
