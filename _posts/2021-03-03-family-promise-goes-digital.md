@@ -32,7 +32,7 @@ engineering, and graphing.
 Here's a couple of example graphs I made using data from the database:
 
 ![Example Pie Chart from my working code](/assets/img/family_promise_example_pie_chart.png)
-
+***
 ![Example Histogram from my working code](/assets/img/family_promise_example_histogram.png)
 
 We ran into a big technical challenge when we were told that there were two databases that we needed to connect:
@@ -45,11 +45,18 @@ by creating a new database altogether based on the historical database and had t
 Here's some code snippets from the code used to create the new database:
 
 ![Database Code Snippet 1](/assets/img/family_promise_code_snippet_1.png)
-
+***
 ![Database Code Snippet 2](/assets/img/family_promise_code_snippet_2.png)
-
+***
 ![Database Code Snippet 3](/assets/img/family_promise_code_snippet_3.png)
 
 ### Helping a Homeless Shelter Give Better Help
-Full list of shipped features (paragraph): 
-Future of the product and Reflections:
+We were able to attain a Minimum Viable Product(MVP) for the Executive Director Dashboard.
+We made a working page and we were also able to make a working predictive model that predicts the exit type of potential guest families. We were able to successfully implement DocuSign as well. 
+
+![Screenshot of working Executive Director Dashboard](...)
+***
+![Screenshot of working docusign](...)
+
+In the future, the Executive Director dashboard will continue to improve, but many more staff roles will be added as well. 
+The Executive Director Dashboard will contain more information, more data visuals, and an all around better aesthetic. The other staff roles will have similar dashboards relevant to their positions and responsibilities as well. We've all worked really  hard this month and we've come a long way together. At the start of this I was having a hard time getting engaged because I didn't feel like I knew what was going on. I was waiting to understand something before asking any questions. I eventually reached out and received the feedback that I needed to have better communication with the team! I finally started talking with the rest of my team and found that I wasn't the only one who was confused! We were all able to come together because of that and I was able to become much more involved in the project after that! I think this project has helped further my career, not in a technical way, but rather, in a more social way. I have learned more about team communication and the courage I need to succeed as part of an effective team.
